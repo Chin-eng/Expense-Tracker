@@ -1,0 +1,51 @@
+.add-expense {
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.table-div, tr,th {
+    border: 1px solid;
+    margin: 25px 0;
+    margin-left:auto;
+    margin-right:auto;
+    border-collapse: collapse;
+    min-width: 200px;
+    margin-top: 200px;
+}
+
+#name-btn, #label-name{
+    position: relative;
+    left: 180px;
+    width: 50%;
+}
+
+#date-btn, #label-date {
+    position: relative;
+    top: 30px;
+    right: 460px;
+    width: 21%;
+}
+
+
+ #label-amount {
+    position: relative;
+    top: 30px;
+    right: 455px;
+    width: 200px;
+}
+
+#amount-btn {
+    position: relative;
+    top: 8.5px;
+    left: 230px;
+    width: 270px;
+}
+
+#expense {
+    position: relative;
+    top: 50px;
+    right: 150px;
+}
+ 
+
